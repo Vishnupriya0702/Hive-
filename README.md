@@ -109,6 +109,9 @@ Difference between Static & Dynamic Partitioning: Static- will load the data man
   In BitMap - its kind of digital.
   to identify which rows are present in which block
   
-  
+  EMbedded Metastore
+  Standalone Metastore - Standalone Metastore is more popular as Hive service will be running on DataIku and Metastore wil be stored in Aurora Db
+  Remote Metastore
+ 
  
  
